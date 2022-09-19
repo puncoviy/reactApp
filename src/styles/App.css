@@ -11,9 +11,11 @@
 
 .App {
     max-width: 400px;
+    text-align: center;
 }
 
 .post {
+    text-align-last: left;
     display: flex;
     align-items: center;
     gap: 15px;
