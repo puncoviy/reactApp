@@ -12,6 +12,7 @@
 .App {
     max-width: 400px;
 }
+
 .post {
     display: flex;
     align-items: center;
@@ -19,8 +20,5 @@
     padding: 15px;
     border: 1px solid grey;
     border-radius: 10px;
-}
-.post__content {
-}
-.post__btns {
+    margin-bottom: 15px;
 }
